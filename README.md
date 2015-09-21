@@ -4,6 +4,8 @@ Project of the exam - [Artificial Intelligence](http://www.unibo.it/en/teaching/
 Using the concept of 'Constraint Programming' to resolve bike sharing problem. The tool used to realize this idea is 
 [Aimms](http://www.aimms.com/).
 
-![image]()
+### Input:
+![image](https://github.com/KaiYangCHN/Aimms/blob/master/Input.png)
 
-![image]()
+### Output:
+![image](https://github.com/KaiYangCHN/Aimms/blob/master/Output.png)
